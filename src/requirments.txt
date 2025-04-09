@@ -1,0 +1,3 @@
+numpy==2.2.4
+matplotlib==3.10.1
+librosa==0.11.0
